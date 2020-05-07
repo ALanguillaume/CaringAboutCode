@@ -26,7 +26,7 @@ library(magick)
 <br>
 
 ```{r, echo = FALSE, fig.align = 'center'}
-magick::image_read(here("images/sisyphus.png")) %>%
+magick::image_read(here("slides/images/sisyphus.png")) %>%
 	magick::image_resize("150%x150%")
 ```
 
@@ -141,7 +141,7 @@ What to learn ?
 ## How everybody learns
 
 ```{r,echo = FALSE}
-image_read(here("images/copyingandpasting-big.png")) %>%
+image_read(here("slides/images/copyingandpasting-big.png")) %>%
 	image_resize("20%x20%")
 ```
 
@@ -150,7 +150,7 @@ image_read(here("images/copyingandpasting-big.png")) %>%
 <br>
 
 ```{r, echo = FALSE, fig.align = 'center'}
-image_read(here("images/learning-diagram.png"))
+image_read(here("slides/images/learning-diagram.png"))
 ```
 
 <center> <font size="7"> Right amount of knowledge </font> </center>
@@ -158,7 +158,7 @@ image_read(here("images/learning-diagram.png"))
 ## The basics
 
 ```{r, echo = FALSE, fig.align = 'center', fig.cap = 'https://swirlstats.com/'}
-image_read(here("images/swirl.png")) %>%
+image_read(here("slides/images/swirl.png")) %>%
 	image_resize("150%x150%")
 ```
 
@@ -376,7 +376,7 @@ map(special_ingredients, bake_cupcakes)
 ## The Torah Syndrome
 
 ```{r, echo = FALSE, fig.align = 'center'}
-image_read(here("images/torah_neg.jpg"))
+image_read(here("slides/images/torah_neg.jpg"))
 ```
 
 ```{r, eval = FALSE}
