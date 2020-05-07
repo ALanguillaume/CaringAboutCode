@@ -19,6 +19,7 @@ library(magrittr)
 
 Slides for the presentation __Caring About Code__. This talk initially presented at the Plant Production System seminar at Wageningen University.
 
+Link to the slides: https://alanguillaume.github.io/CaringAboutCode/
 
 ## Summary:
 

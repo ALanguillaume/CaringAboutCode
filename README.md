@@ -7,6 +7,8 @@ Slides for the presentation **Caring About Code**. This talk initially
 presented at the Plant Production System seminar at Wageningen
 University.
 
+Link to the slides: <https://alanguillaume.github.io/CaringAboutCode/>
+
 ## Summary:
 
 Code should be understood as a research project blue-print that allows
