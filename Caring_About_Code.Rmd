@@ -33,7 +33,7 @@ magick::image_read("images/sisyphus.png") %>%
 
 ## The Pragmatic Reason
 
-### sometimes there is no other way...
+### Sometimes there is no other way...
 
 <font size="8"> 
 
@@ -411,7 +411,7 @@ Sentence == 80 characters max
 
 ## Break down tasks 
 
-Don't write2000-line scripts...
+Don't write 2000-line scripts...
 
 ```{r, eval = FALSE}
 data ------------------------------------------------------> paper
@@ -466,7 +466,7 @@ Communication medium
 <br>
 
 1. __Enough vocabulary__: Learn enough else ask google
-2. __Clear syntax__: Lay out ! Lay out ! Layout !
+2. __Clear syntax__: Lay out ! Lay out ! Lay out !
 3. __Clear structure__: Strive for modularity
 
 </font> 
