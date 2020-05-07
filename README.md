@@ -5,7 +5,7 @@
 
 Slides for the presentation **Caring About Code**. This talk initially
 presented at the Plant Production System seminar at Wageningen
-University.
+University. **It is mostly aimed at R beginners.**
 
 Link to the slides: <https://alanguillaume.github.io/CaringAboutCode/>
 
