@@ -155,7 +155,7 @@ image_read("images/learning-diagram.png")
 
 <center> <font size="7"> Right amount of knowledge </font> </center>
 
-## The basic 
+## The basics
 
 ```{r, echo = FALSE, fig.align = 'center', fig.cap = 'https://swirlstats.com/'}
 image_read("images/swirl.png") %>%
