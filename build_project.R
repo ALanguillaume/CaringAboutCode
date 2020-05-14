@@ -1,4 +1,6 @@
 
+rmarkdown::render("README.Rmd")
+
 rmarkdown::render("slides/Caring_About_Code.Rmd")
 
 file.copy(from = "slides/Caring_About_Code.html",

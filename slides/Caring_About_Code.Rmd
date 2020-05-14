@@ -253,7 +253,7 @@ head(iris_long, 2)
 
 ## Be explicit
 
-Don't assume too much knowledge form your reader...
+Don't assume too much knowledge from your reader...
 
 ```{r, eval = FALSE}
 iris_long <- pivot_longer(iris, -Species, "Variable", "Value")
@@ -286,7 +286,7 @@ plot_farm <- draw_plot_farm(data = data_farm,
 
 ## Be explicit
 
-Don't assume too much knowledge form your reader:
+Don't assume too much knowledge from your reader:
 
 * Include argument names to your functions
 * Name things explicitly
@@ -495,4 +495,4 @@ for (wb in workbooks) {
 A clear sign something could be improved:
 
 * Break down the problem into several functions
-* You might not be using the adequate data structure to model your data (lists are you friends)
+* You might not be using the adequate data structure to model your problem (lists are you friends)

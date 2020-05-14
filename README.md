@@ -3,8 +3,8 @@
 
 # Caring About Code
 
-Slides for the presentation **Caring About Code**. This talk initially
-presented at the Plant Production System seminar at Wageningen
+Slides for the presentation **Caring About Code**. This talk was
+initially presented at the Plant Production System seminar at Wageningen
 University. **It is mostly aimed at R beginners.**
 
 Link to the slides: <https://alanguillaume.github.io/CaringAboutCode/>
@@ -12,8 +12,8 @@ Link to the slides: <https://alanguillaume.github.io/CaringAboutCode/>
 ## Summary:
 
 Code should be understood as a research project blue-print that allows
-it to be easily reproduced by anyone starting from its author. However,
-code should not only be machine-readable but more importantly
+one’s results to be easily reproduced by anyone starting from their
+author. However, code should not only be machine-readable but also
 human-readable and, as such, should be treated as a communication medium
 in its own right. If tackling your coding problems with that given
 mindset, you can directly use what you already know about writing in
