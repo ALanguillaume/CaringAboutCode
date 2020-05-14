@@ -42,7 +42,7 @@ general to improve your code. That boils down to:
     idea also holds for code and comes in the name of *modularity*.
     
       - Write a few small scripts each doing one thing well.
-      - Whenever needed, write functions (automation recipes) and but
+      - Whenever needed, write functions (automation recipes) and put
         them all together in a “toolbox” script.
 
 ## Companion Example:
