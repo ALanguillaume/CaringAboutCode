@@ -34,7 +34,7 @@ Code should be understood as a research project blue-print that allows one's res
 
 2. __Clear Syntax__: Once you know enough words you can arrange them in properly layed-out sentences.
 	
-	* Let the code breath: Code also likes spaces and escaped lines.
+	* Let the code breathe: Code also likes spaces and escaped lines.
 	* Be explicit: in the way you name things.
 	* Be consistent: in the way you name things (bis) but...
 	* DRY: Don't Repeat Yourself.

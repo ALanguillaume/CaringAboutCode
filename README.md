@@ -31,7 +31,7 @@ general to improve your code. That boils down to:
 2.  **Clear Syntax**: Once you know enough words you can arrange them in
     properly layed-out sentences.
     
-      - Let the code breath: Code also likes spaces and escaped lines.
+      - Let the code breathe: Code also likes spaces and escaped lines.
       - Be explicit: in the way you name things.
       - Be consistent: in the way you name things (bis) but…
       - DRY: Don’t Repeat Yourself.

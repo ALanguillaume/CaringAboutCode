@@ -20,7 +20,7 @@ library(magick)
 ## The Selfish Reason
 
 <center>
-<font size="10">  __Research == iterarive process__ </font>
+<font size="10">  __Research == iterative process__ </font>
 </center>
 
 <br>
@@ -206,7 +206,7 @@ For that: [Advanced R](https://adv-r.hadley.nz/) Chapters 3 and 9
 
 # 2. Clear syntax
 
-## Let it breath
+## Let it breathe
 
 whenyouarewritinganarticleoremailyoumakesureyouareunder
 standablebyyourreader
@@ -217,7 +217,7 @@ iris_long<-pivot_longer(data=iris,cols=-Species,names_to="Variable",
 ```
 
 
-## Let it breath
+## Let it breathe
 
 whenyouarewritinganarticleoremailyoumakesureyourreadercanunderstandyou
 
