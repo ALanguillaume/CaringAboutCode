@@ -394,10 +394,10 @@ filter(iris, Sepal.Length > 4, Sepal.Width > 3, Petal.Length < 2, Petal.Width > 
 ```{r, eval = FALSE}
 iris %>%
 	filter(Sepal.Length > 4, 
-				 Sepal.Width > 3, 
-				 Petal.Length < 2, 
-				 Petal.Width > 0.4, 
-				 Species == "setosa")
+		   Sepal.Width > 3, 
+		   Petal.Length < 2, 
+		   Petal.Width > 0.4, 
+		   Species == "setosa")
 ```
 
 <center> 
@@ -449,8 +449,12 @@ Most frequent words in each season of The Black Adder.
 
 [The Black Adder Example Project](https://github.com/ALanguillaume/blackadder)
 
-</center>
 
+```{r, eval = FALSE}
+html -------- text -------- words -------- figure -------> paper
+```
+
+</center>
 
 ## Summary
 
